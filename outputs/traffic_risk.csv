@@ -1,0 +1,6 @@
+traffic_source,transactions,avg_risk_score,high_risk_transactions
+Direct,3162,4.61,0
+Email,1204,4.46,0
+Social_Media,2084,4.44,1
+Search_Engine,3623,4.38,2
+Advertisement,1927,4.12,0

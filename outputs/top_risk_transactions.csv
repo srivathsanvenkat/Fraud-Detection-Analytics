@@ -1,0 +1,4 @@
+transaction_id,user_id,product_id,final_amount,user_aov,amount_aov_ratio,discount_percent,risk_score,risk_level,risk_reason
+TXN_108708,11676,24085,83511.29,1728.88,48.3,9.68,60,High Risk,High amount/AOV deviation; Large change from previous transaction; 
+TXN_105150,13222,22271,14254.82,334.43,42.62,74.42,60,High Risk,High amount/AOV deviation; Very high discount; 
+TXN_100113,13100,20425,59448.93,2029.62,29.29,19.55,60,High Risk,High amount/AOV deviation; Large change from previous transaction; 

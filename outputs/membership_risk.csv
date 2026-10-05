@@ -1,0 +1,5 @@
+membership_type,transactions,avg_risk_score,high_risk_transactions
+Silver,2006,4.74,0
+Regular,6024,4.54,2
+Premium,1093,4.11,1
+Gold,2877,4.07,0

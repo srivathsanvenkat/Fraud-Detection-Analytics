@@ -1,0 +1,2 @@
+total_transactions,high_risk_transactions,critical_risk_transactions,average_risk_score,maximum_risk_score
+12000,3,0,4.42,60.0

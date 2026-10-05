@@ -1,0 +1,16 @@
+device_type,traffic_source,transaction_count,purchase_count,purchase_rate,avg_amount
+Tablet,Advertisement,168,15,8.93,29487.1
+Desktop,Search_Engine,1157,103,8.9,29783.02
+Desktop,Direct,1001,86,8.59,29568.98
+Mobile,Social_Media,1222,102,8.35,29186.2
+Mobile,Advertisement,1111,92,8.28,30151.19
+Mobile,Direct,1892,150,7.93,29261.71
+Mobile,Email,712,56,7.87,30247.86
+Mobile,Search_Engine,2147,168,7.82,29358.85
+Desktop,Email,402,31,7.71,29154.18
+Desktop,Advertisement,648,48,7.41,29954.89
+Desktop,Social_Media,690,50,7.25,30637.69
+Tablet,Direct,269,18,6.69,29916.33
+Tablet,Email,90,6,6.67,29838.78
+Tablet,Search_Engine,319,17,5.33,29747.49
+Tablet,Social_Media,172,9,5.23,31105.69
